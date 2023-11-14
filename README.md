@@ -1,11 +1,5 @@
 <h1 align="center">Hey  there 👋</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">My name is Jeffy Evangelista, a web developer on a journey to explore the vast realms of technology. My code journey began with a keen interest in understanding the intricacies of how things work, and it has evolved into a fervent commitment to transforming innovative ideas into functional, real-world solutions.</p>
 
 ###
